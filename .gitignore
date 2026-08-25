@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Frontend
+app/frontend/node_modules/
+app/frontend/dist/
+app/frontend/.vite/
+
+# Raw and generated visual data
+# Keep the raw dataset out of GitHub; the selected model is required by the API.
+data/raw/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Local runtime and editor files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

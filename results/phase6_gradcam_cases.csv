@@ -1,0 +1,5 @@
+path,actual,predicted,defective_score,case,label
+C:\Users\AbdElhalk\OneDrive\Desktop\computer vision\Industrial Quality Inspection\casting_data\casting_data\train\ok_front\cast_ok_0_4373.jpeg,0,0,0.06450105458498,Correct,OK
+C:\Users\AbdElhalk\OneDrive\Desktop\computer vision\Industrial Quality Inspection\casting_data\casting_data\train\def_front\cast_def_0_2405.jpeg,1,1,0.625514566898346,Correct,Defective
+C:\Users\AbdElhalk\OneDrive\Desktop\computer vision\Industrial Quality Inspection\casting_data\casting_data\train\ok_front\cast_ok_0_7349.jpeg,0,1,0.5495928525924683,False positive,OK
+C:\Users\AbdElhalk\OneDrive\Desktop\computer vision\Industrial Quality Inspection\casting_data\casting_data\train\def_front\cast_def_0_6616.jpeg,1,0,0.381946861743927,False negative,Defective

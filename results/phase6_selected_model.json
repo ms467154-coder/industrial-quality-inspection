@@ -1,0 +1,9 @@
+{
+  "source_checkpoint": "phase3_mobilenetv2_head_baseline.pt",
+  "Model": "Original MobileNetV2 head",
+  "Accuracy": 0.9405306495882892,
+  "Precision": 0.9930434782608696,
+  "Recall": 0.903481012658228,
+  "F1": 0.9461474730737366,
+  "ROC-AUC": 0.9935027046321976
+}
